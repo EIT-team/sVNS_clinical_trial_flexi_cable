@@ -852,9 +852,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Female pins, 1.27 mm pitch"
+	(text "Female pins - sVNS stimulator side\n1.27 mm pitch"
 		(exclude_from_sim no)
-		(at 147.574 109.474 0)
+		(at 232.41 32.258 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -862,9 +862,9 @@
 		)
 		(uuid "1937d87d-554d-4489-9328-f898ad9ff87b")
 	)
-	(text "Male pins, 1.27 mm pitch"
+	(text "Male pins, cuff side\n1.27 mm pitch"
 		(exclude_from_sim no)
-		(at 144.78 32.258 0)
+		(at 72.4073 32.258 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -872,9 +872,1209 @@
 		)
 		(uuid "f6d25475-9d9a-486d-a9e8-6ed626548142")
 	)
+	(wire
+		(pts
+			(xy 241.3 124.46) (xy 241.3 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cbdd0b2-a372-469c-a49a-e5bfbf765b3f")
+	)
+	(wire
+		(pts
+			(xy 66.04 95.25) (xy 66.04 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12747d5a-9457-44f2-94b2-bcab82ba8653")
+	)
+	(wire
+		(pts
+			(xy 231.14 64.77) (xy 231.14 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17e4cb28-0802-41e3-abe2-156db04e8d6b")
+	)
+	(wire
+		(pts
+			(xy 73.66 64.77) (xy 73.66 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23bae5cb-6645-4242-826b-6d58e5c987a0")
+	)
+	(wire
+		(pts
+			(xy 83.82 124.46) (xy 83.82 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "248d1ced-438e-4110-9c85-02d156a87bfd")
+	)
+	(wire
+		(pts
+			(xy 68.58 124.46) (xy 68.58 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25028e6e-9504-441a-9e0e-3e786c81db76")
+	)
+	(wire
+		(pts
+			(xy 220.98 96.52) (xy 220.98 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3da336cb-168c-4ac3-b484-d13d0e941232")
+	)
+	(wire
+		(pts
+			(xy 220.98 64.77) (xy 220.98 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4156d3df-c8b2-4039-8297-440a2deb1131")
+	)
+	(wire
+		(pts
+			(xy 226.06 124.46) (xy 226.06 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43d78916-f336-41cf-8828-230bfce89b99")
+	)
+	(wire
+		(pts
+			(xy 60.96 124.46) (xy 60.96 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47635131-c3b1-4a41-9f0f-5096de2e1026")
+	)
+	(wire
+		(pts
+			(xy 236.22 64.77) (xy 236.22 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47ad1d7c-225d-44f0-bb8d-b20d14a0e45d")
+	)
+	(wire
+		(pts
+			(xy 76.2 124.46) (xy 76.2 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48f664bf-f7eb-4e88-955c-4c85a97c89d1")
+	)
+	(wire
+		(pts
+			(xy 73.66 124.46) (xy 73.66 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4afe551e-9f9e-4923-9bba-8bbdb8172d42")
+	)
+	(wire
+		(pts
+			(xy 78.74 64.77) (xy 78.74 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b0fba9d-8cdf-4c4b-be8b-fc38757d3e6f")
+	)
+	(wire
+		(pts
+			(xy 231.14 96.52) (xy 231.14 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dc3662a-176e-4051-9edf-c115dc2054c1")
+	)
+	(wire
+		(pts
+			(xy 220.98 124.46) (xy 220.98 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e13796b-3ba3-45e4-8ba6-26d704acf11f")
+	)
+	(wire
+		(pts
+			(xy 63.5 124.46) (xy 63.5 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "527d3e14-36c7-4456-b368-d9991f2f3354")
+	)
+	(wire
+		(pts
+			(xy 236.22 124.46) (xy 236.22 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5322d58f-3929-4b8d-90ee-e5017c888425")
+	)
+	(wire
+		(pts
+			(xy 238.76 64.77) (xy 238.76 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55de56e1-c84d-44e0-9f50-91443e1cc55f")
+	)
+	(wire
+		(pts
+			(xy 218.44 67.31) (xy 218.44 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a3f002d-e062-424b-87bd-c8cb24cf00d7")
+	)
+	(wire
+		(pts
+			(xy 241.3 64.77) (xy 241.3 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c008443-cf01-4b1b-92fe-080a9b87fb5f")
+	)
+	(wire
+		(pts
+			(xy 233.68 64.77) (xy 233.68 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e23b970-49f8-4d1e-b31a-684b5bd049c8")
+	)
+	(wire
+		(pts
+			(xy 68.58 64.77) (xy 68.58 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f92bde4-3321-4101-b145-d813dee57224")
+	)
+	(wire
+		(pts
+			(xy 223.52 124.46) (xy 223.52 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61717a3c-35e6-4f02-8943-a700dc9c6e26")
+	)
+	(wire
+		(pts
+			(xy 218.44 96.52) (xy 218.44 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6577c807-2b8b-4eb6-bbe0-905f31ebc3c0")
+	)
+	(wire
+		(pts
+			(xy 226.06 64.77) (xy 226.06 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f8e235b-3958-48f3-a78e-ae101af6614f")
+	)
+	(wire
+		(pts
+			(xy 223.52 64.77) (xy 223.52 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7507314e-586c-41e9-9b71-3b3e5b003748")
+	)
+	(wire
+		(pts
+			(xy 83.82 64.77) (xy 83.82 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7662944a-052c-4259-b4e9-1d181f55ca30")
+	)
+	(wire
+		(pts
+			(xy 238.76 96.52) (xy 238.76 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84527a77-8e78-49f6-911c-8c4cc9ad1839")
+	)
+	(wire
+		(pts
+			(xy 71.12 64.77) (xy 71.12 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85d673ed-2869-43d9-b54d-3d83582a1084")
+	)
+	(wire
+		(pts
+			(xy 76.2 64.77) (xy 76.2 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87ed82bf-c3f0-44f7-8065-e9db242daa97")
+	)
+	(wire
+		(pts
+			(xy 228.6 96.52) (xy 228.6 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93dd923b-fcb8-4de3-8612-adc89b2da34b")
+	)
+	(wire
+		(pts
+			(xy 223.52 96.52) (xy 223.52 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95d3c826-a3e9-41a9-96af-1c961a3e5496")
+	)
+	(wire
+		(pts
+			(xy 231.14 124.46) (xy 231.14 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b79f657-1756-4f08-87db-b9bcbe0213b1")
+	)
+	(wire
+		(pts
+			(xy 233.68 124.46) (xy 233.68 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d72dbcd-d148-49e5-b6a4-e15dce7211b1")
+	)
+	(wire
+		(pts
+			(xy 78.74 95.25) (xy 78.74 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0f849b0-03f9-42e3-8273-f0dc0a25cde8")
+	)
+	(wire
+		(pts
+			(xy 218.44 124.46) (xy 218.44 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a422530a-cd12-4f3b-aff7-02284f4b831e")
+	)
+	(wire
+		(pts
+			(xy 228.6 64.77) (xy 228.6 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9edec38-6173-473d-8797-bdb0511d25be")
+	)
+	(wire
+		(pts
+			(xy 81.28 124.46) (xy 81.28 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af4a2f60-8a4d-4e85-805b-aaec46e57573")
+	)
+	(wire
+		(pts
+			(xy 73.66 95.25) (xy 73.66 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b37f852e-7d6f-4027-b183-551f8050c3d1")
+	)
+	(wire
+		(pts
+			(xy 63.5 95.25) (xy 63.5 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b72101aa-9a7f-4246-bb1f-e070c25d8112")
+	)
+	(wire
+		(pts
+			(xy 241.3 96.52) (xy 241.3 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8514333-63b0-4cab-ab9f-87820a6a8483")
+	)
+	(wire
+		(pts
+			(xy 78.74 124.46) (xy 78.74 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9676b09-85b9-43eb-b804-639bd3a58a83")
+	)
+	(wire
+		(pts
+			(xy 226.06 96.52) (xy 226.06 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba583b0c-66a1-498e-8491-e11f10bcceb2")
+	)
+	(wire
+		(pts
+			(xy 81.28 64.77) (xy 81.28 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb4881cd-bbf0-42ac-8db8-70a440c32b61")
+	)
+	(wire
+		(pts
+			(xy 60.96 95.25) (xy 60.96 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb4d1c08-bca7-4749-9afc-40b86bf4e2f8")
+	)
+	(wire
+		(pts
+			(xy 81.28 95.25) (xy 81.28 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c36a971b-cf4c-4d3c-a268-cec394aa786f")
+	)
+	(wire
+		(pts
+			(xy 71.12 124.46) (xy 71.12 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc39cbe3-7b0a-4499-8864-3147dfd5bd61")
+	)
+	(wire
+		(pts
+			(xy 83.82 95.25) (xy 83.82 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd2a1795-89e2-4152-86f6-5afcecec888d")
+	)
+	(wire
+		(pts
+			(xy 233.68 96.52) (xy 233.68 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdaa842b-e8ef-4fe5-b4c6-2e3bdda359b3")
+	)
+	(wire
+		(pts
+			(xy 76.2 95.25) (xy 76.2 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0a27d3b-a558-49ba-afe9-da4090e2fd82")
+	)
+	(wire
+		(pts
+			(xy 66.04 64.77) (xy 66.04 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d45f124f-2998-4024-bf98-3c856ff75ce8")
+	)
+	(wire
+		(pts
+			(xy 60.96 64.77) (xy 60.96 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4c42744-e245-4d51-8ce2-e3ae7a386fae")
+	)
+	(wire
+		(pts
+			(xy 68.58 95.25) (xy 68.58 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e24e19d8-5ff1-4bed-b7c0-58166b32a7f7")
+	)
+	(wire
+		(pts
+			(xy 63.5 64.77) (xy 63.5 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e633f2f9-9d75-4f21-be80-265c626cf1dc")
+	)
+	(wire
+		(pts
+			(xy 238.76 124.46) (xy 238.76 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea6a5990-76b2-4278-a04a-ad5c5945d6a6")
+	)
+	(wire
+		(pts
+			(xy 228.6 124.46) (xy 228.6 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec30d9fd-9c31-4701-a3bc-cbca466b2a09")
+	)
+	(wire
+		(pts
+			(xy 236.22 96.52) (xy 236.22 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3ba24de-c8ef-40da-bb04-9163955ccd70")
+	)
+	(wire
+		(pts
+			(xy 71.12 95.25) (xy 71.12 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3c7894a-20b7-4696-86dd-7a5fefa46e2b")
+	)
+	(wire
+		(pts
+			(xy 66.04 124.46) (xy 66.04 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa989d2c-2d8b-4135-91b8-a82c78b15640")
+	)
+	(label "2"
+		(at 71.12 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "073e3dc8-aad0-4d9f-ba83-3a70d92e0621")
+	)
+	(label "13"
+		(at 66.04 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0a023e72-ccdc-47fd-b14b-a1ad4320c093")
+	)
+	(label "18"
+		(at 78.74 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1024a9db-2ecc-4292-9266-be6ef4b202ac")
+	)
+	(label "14"
+		(at 226.06 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10752851-ccc9-4253-9ebd-69f39980d7f2")
+	)
+	(label "3"
+		(at 223.52 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10a159bb-0e18-43db-9447-1a153591ccfc")
+	)
+	(label "6"
+		(at 231.14 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "179cf357-2d68-4fd5-b6da-c1e086c44a06")
+	)
+	(label "7"
+		(at 81.28 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "21190f52-47d8-4754-87ad-f2f012b9d0d6")
+	)
+	(label "16"
+		(at 83.82 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a6c2c03-d1da-4ac7-af4d-1a172afa2b2e")
+	)
+	(label "2"
+		(at 220.98 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b1a4489-0cce-4934-a18a-f2ddef1c45ff")
+	)
+	(label "28"
+		(at 236.22 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3c7b567c-d05a-4d91-8314-ae273f0f2f8d")
+	)
+	(label "4"
+		(at 226.06 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "417d51d2-021e-40ac-bbc9-4230f01fc10f")
+	)
+	(label "28"
+		(at 76.2 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4431a31a-7cae-4ee6-9aed-a13bfbef1e6e")
+	)
+	(label "30"
+		(at 241.3 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "49491175-644d-40e5-907a-f50f1fda4ed9")
+	)
+	(label "7"
+		(at 233.68 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a1121d0-a9ad-4fe7-a2e4-502a54bc8a89")
+	)
+	(label "20"
+		(at 76.2 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4ad11a49-b34f-476b-b76b-56df7c17ee04")
+	)
+	(label "15"
+		(at 228.6 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fa4d256-8a8f-4ddc-b56e-b98c3dd7d9cf")
+	)
+	(label "8"
+		(at 78.74 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "501966f2-ec0f-4b28-abf9-dd485aab4884")
+	)
+	(label "25"
+		(at 60.96 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "51316b37-7764-499a-b7f9-fcb98eaa8736")
+	)
+	(label "25"
+		(at 228.6 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5297e769-8211-4024-a974-28463b2740cd")
+	)
+	(label "24"
+		(at 63.5 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "59632e63-ad2d-4a3d-9d91-68fd69c77f1a")
+	)
+	(label "29"
+		(at 73.66 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "66182a9b-0e6c-48f8-86eb-4c245acae371")
+	)
+	(label "22"
+		(at 220.98 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "670bb484-d9b8-48c6-817c-9992616c80fa")
+	)
+	(label "19"
+		(at 73.66 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "694d47fa-526f-4d9a-8ae0-deb427202def")
+	)
+	(label "29"
+		(at 238.76 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e594d7a-e44a-47b4-8ef7-e79421031301")
+	)
+	(label "20"
+		(at 241.3 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6eec5b7e-d7fd-48e4-862e-3eacbd0504a3")
+	)
+	(label "17"
+		(at 81.28 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6f84fa19-bf54-4343-9c4f-49dc70e43355")
+	)
+	(label "6"
+		(at 83.82 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74725228-add6-496a-bdd8-93bc8de81445")
+	)
+	(label "1"
+		(at 83.82 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "75ff6ca9-9b77-407e-90e0-8535d73dbc7b")
+	)
+	(label "22"
+		(at 68.58 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "775d6f76-f86f-432a-9f64-3501f8e6c701")
+	)
+	(label "3"
+		(at 68.58 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c333a6d-02de-4bbd-956e-f7538883946e")
+	)
+	(label "26"
+		(at 231.14 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7cd6c53f-ac7e-47f4-a91d-af7b525821ef")
+	)
+	(label "21"
+		(at 218.44 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "83220965-259d-4288-9cf9-8657cf3b0d1d")
+	)
+	(label "14"
+		(at 63.5 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a0a5815-7c94-4bae-865a-e3ba1e31d9ce")
+	)
+	(label "19"
+		(at 238.76 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a1c0c61-640c-4ba1-ac5c-551d7f74cc02")
+	)
+	(label "17"
+		(at 233.68 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c2de4f1-feb8-478e-b67f-450117787ee2")
+	)
+	(label "12"
+		(at 220.98 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d492310-a7fb-4f62-a4f5-97f921876b63")
+	)
+	(label "10"
+		(at 73.66 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9eac8ce5-ba0c-44f4-83f7-508d4bfa53c1")
+	)
+	(label "27"
+		(at 233.68 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4e6bc34-6db4-4279-89ba-8150ad0e7c59")
+	)
+	(label "10"
+		(at 241.3 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a749b2bd-55e2-45ad-b7f3-a118e5e449dd")
+	)
+	(label "21"
+		(at 71.12 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a9b703e9-8ab5-461c-aa0e-1ba99faea4ca")
+	)
+	(label "23"
+		(at 66.04 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab61e142-8362-42c2-8b28-0da9d273cf80")
+	)
+	(label "15"
+		(at 60.96 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "adf27b14-4b8f-4765-9582-4e4e78c20788")
+	)
+	(label "8"
+		(at 236.22 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b027a9ce-da90-4003-9489-d6a7cbbdb411")
+	)
+	(label "4"
+		(at 66.04 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7aec673-a0d6-4785-a531-10c4a0106947")
+	)
+	(label "9"
+		(at 76.2 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b800aff0-f48f-434e-8a5e-943b5d395dd8")
+	)
+	(label "18"
+		(at 236.22 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb1b82fb-2090-472a-a84c-c59271cc7115")
+	)
+	(label "27"
+		(at 78.74 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "be5e4894-09dc-4a43-b35e-83e31db67c79")
+	)
+	(label "13"
+		(at 223.52 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3c0a349-a510-46e9-80bb-2114393eb89d")
+	)
+	(label "12"
+		(at 71.12 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca3738bf-63b2-4471-bfd7-d4ead084efbc")
+	)
+	(label "30"
+		(at 60.96 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce9cc8c1-2180-4eda-9a2e-fcf8603861c5")
+	)
+	(label "1"
+		(at 218.44 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d3859366-128a-42cd-ac59-1ae50da2b210")
+	)
+	(label "26"
+		(at 81.28 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d4106ac9-28df-4c01-9ac9-eadad589b041")
+	)
+	(label "5"
+		(at 228.6 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "de201369-705b-4aa9-8a0f-61a19c7789fc")
+	)
+	(label "24"
+		(at 226.06 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8a932df-35f3-4d9b-9ce4-5396c5440ede")
+	)
+	(label "11"
+		(at 218.44 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1679090-8b4d-4aa0-958c-c16b3b29416b")
+	)
+	(label "16"
+		(at 231.14 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f27cc0c3-486f-4939-8f50-85072fdd9339")
+	)
+	(label "11"
+		(at 68.58 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4a86536-72ed-4709-9f42-b26bd4b22d4f")
+	)
+	(label "5"
+		(at 63.5 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fac52186-bf0f-4344-a7ea-bdf61da4b5ed")
+	)
+	(label "9"
+		(at 238.76 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb6eece6-840d-4c02-9b29-55501a2b3882")
+	)
+	(label "23"
+		(at 223.52 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fec23612-77fe-4db3-88ef-55702e96939e")
+	)
 	(symbol
 		(lib_id "M50-3631042_male_pins:M50-3631042")
-		(at 100.33 55.88 0)
+		(at 73.66 54.61 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -882,32 +2082,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1199eda1-cd00-46cd-b8bd-28b2985d736c")
 		(property "Reference" "J1"
-			(at 107.95 53.3399 0)
+			(at 72.39 41.402 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "M50-3631042"
-			(at 107.95 55.8799 0)
+			(at 72.39 43.942 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "svns_cable_extender_flexi_pcb:M50-3631042_male_pins"
-			(at 100.33 55.88 0)
+			(at 73.66 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -919,7 +2118,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 55.88 0)
+			(at 73.66 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -930,7 +2129,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 55.88 0)
+			(at 73.66 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -941,7 +2140,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 100.33 55.88 0)
+			(at 73.66 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -953,7 +2152,7 @@
 			)
 		)
 		(property "MANUFACTURER" "HARWIN"
-			(at 100.33 55.88 0)
+			(at 73.66 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -965,7 +2164,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 100.33 55.88 0)
+			(at 73.66 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -977,7 +2176,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 100.33 55.88 0)
+			(at 73.66 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1029,7 +2228,8 @@
 	)
 	(symbol
 		(lib_id "M50-3131045_female_pins:M50-3131045")
-		(at 194.31 135.89 0)
+		(at 231.14 114.3 90)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1037,30 +2237,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2a9fe3a2-0bfb-4c3e-9269-b70353fba75a")
 		(property "Reference" "J6"
-			(at 194.31 115.57 0)
+			(at 233.68 102.362 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "M50-3131045"
-			(at 194.31 118.11 0)
+			(at 233.68 104.902 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "svns_cable_extender_flexi_pcb:M50-3131045_female_pins"
-			(at 194.31 135.89 0)
+			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1072,7 +2273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 135.89 0)
+			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1083,7 +2284,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.31 135.89 0)
+			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1094,7 +2295,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 194.31 135.89 0)
+			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1106,7 +2307,7 @@
 			)
 		)
 		(property "MANUFACTURER" "HARWIN"
-			(at 194.31 135.89 0)
+			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1118,7 +2319,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 194.31 135.89 0)
+			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1130,7 +2331,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 194.31 135.89 0)
+			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1182,7 +2383,8 @@
 	)
 	(symbol
 		(lib_id "M50-3131045_female_pins:M50-3131045")
-		(at 140.97 135.89 0)
+		(at 231.14 86.36 90)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1190,30 +2392,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "65855820-2755-44ef-957d-83029a0d0289")
 		(property "Reference" "J5"
-			(at 140.97 115.57 0)
+			(at 235.204 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "M50-3131045"
-			(at 140.97 118.11 0)
+			(at 235.204 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "svns_cable_extender_flexi_pcb:M50-3131045_female_pins"
-			(at 140.97 135.89 0)
+			(at 231.14 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1225,7 +2428,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 135.89 0)
+			(at 231.14 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1236,7 +2439,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 135.89 0)
+			(at 231.14 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1247,7 +2450,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 140.97 135.89 0)
+			(at 231.14 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1259,7 +2462,7 @@
 			)
 		)
 		(property "MANUFACTURER" "HARWIN"
-			(at 140.97 135.89 0)
+			(at 231.14 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1271,7 +2474,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 140.97 135.89 0)
+			(at 231.14 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1283,7 +2486,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 140.97 135.89 0)
+			(at 231.14 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1335,7 +2538,7 @@
 	)
 	(symbol
 		(lib_id "M50-3631042_male_pins:M50-3631042")
-		(at 198.12 55.88 0)
+		(at 73.66 114.3 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1343,32 +2546,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bee32e02-ec73-4feb-89e5-a0a4a223148e")
 		(property "Reference" "J3"
-			(at 205.74 53.3399 0)
+			(at 69.342 102.616 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "M50-3631042"
-			(at 205.74 55.8799 0)
+			(at 69.342 105.156 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "svns_cable_extender_flexi_pcb:M50-3631042_male_pins"
-			(at 198.12 55.88 0)
+			(at 73.66 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1380,7 +2582,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 55.88 0)
+			(at 73.66 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1391,7 +2593,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 55.88 0)
+			(at 73.66 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1402,7 +2604,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 198.12 55.88 0)
+			(at 73.66 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1414,7 +2616,7 @@
 			)
 		)
 		(property "MANUFACTURER" "HARWIN"
-			(at 198.12 55.88 0)
+			(at 73.66 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1426,7 +2628,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 198.12 55.88 0)
+			(at 73.66 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1438,7 +2640,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 198.12 55.88 0)
+			(at 73.66 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1490,7 +2692,8 @@
 	)
 	(symbol
 		(lib_id "M50-3131045_female_pins:M50-3131045")
-		(at 96.52 135.89 0)
+		(at 231.14 54.61 90)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1498,30 +2701,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cf2ceca6-dc9a-4d95-a64b-3d935bb449b3")
 		(property "Reference" "J4"
-			(at 96.52 115.57 0)
+			(at 234.95 41.148 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "M50-3131045"
-			(at 96.52 118.11 0)
+			(at 234.95 43.688 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "svns_cable_extender_flexi_pcb:M50-3131045_female_pins"
-			(at 96.52 135.89 0)
+			(at 231.14 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1533,7 +2737,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 135.89 0)
+			(at 231.14 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1544,7 +2748,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 96.52 135.89 0)
+			(at 231.14 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1555,7 +2759,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 96.52 135.89 0)
+			(at 231.14 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1567,7 +2771,7 @@
 			)
 		)
 		(property "MANUFACTURER" "HARWIN"
-			(at 96.52 135.89 0)
+			(at 231.14 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1579,7 +2783,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 96.52 135.89 0)
+			(at 231.14 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1591,7 +2795,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 96.52 135.89 0)
+			(at 231.14 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1643,7 +2847,7 @@
 	)
 	(symbol
 		(lib_id "M50-3631042_male_pins:M50-3631042")
-		(at 144.78 55.88 0)
+		(at 73.66 85.09 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1651,32 +2855,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d18bfd96-e959-401d-94bb-044f07f6b957")
 		(property "Reference" "J2"
-			(at 152.4 53.3399 0)
+			(at 72.644 73.914 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "M50-3631042"
-			(at 152.4 55.8799 0)
+			(at 72.644 76.454 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "svns_cable_extender_flexi_pcb:M50-3631042_male_pins"
-			(at 144.78 55.88 0)
+			(at 73.66 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1688,7 +2891,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 55.88 0)
+			(at 73.66 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1699,7 +2902,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 55.88 0)
+			(at 73.66 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1710,7 +2913,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 144.78 55.88 0)
+			(at 73.66 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1722,7 +2925,7 @@
 			)
 		)
 		(property "MANUFACTURER" "HARWIN"
-			(at 144.78 55.88 0)
+			(at 73.66 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1734,7 +2937,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 144.78 55.88 0)
+			(at 73.66 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1746,7 +2949,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 144.78 55.88 0)
+			(at 73.66 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
