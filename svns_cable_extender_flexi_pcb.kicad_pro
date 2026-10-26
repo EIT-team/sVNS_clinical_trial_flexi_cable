@@ -76,7 +76,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|-789650000|66115000|4a91b92f-ee2e-4fea-b55d-f9e787ba623e|c05a5c62-a986-4253-b111-029198c83ebf",
+          ""
+        ],
+        [
+          "courtyards_overlap|-795650000|66115000|4a91b92f-ee2e-4fea-b55d-f9e787ba623e|af00296c-0693-40a7-9407-09dfcc46a061",
+          ""
+        ],
+        [
+          "courtyards_overlap|213700000|67010000|0ea932b1-ebad-4637-9ab2-5f23a1880900|bcc12a30-f774-4426-bf17-582d9e93045f",
+          "Necessary to align"
+        ],
+        [
+          "courtyards_overlap|219700000|67010000|ad80e959-7d50-4c9b-a753-84b021278d6e|bcc12a30-f774-4426-bf17-582d9e93045f",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -492,6 +509,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",

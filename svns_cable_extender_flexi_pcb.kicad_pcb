@@ -630,7 +630,7 @@
 		(descr "M50-3141045-3")
 		(tags "Connector")
 		(property "Reference" "J4"
-			(at -9.398 0 90)
+			(at -9.3 1.08 90)
 			(layer "F.SilkS")
 			(uuid "4adfa18c-4d97-4128-b499-a7d32abd696e")
 			(effects
@@ -5896,28 +5896,20 @@
 		(uuid "7accb102-7734-46b3-815c-93b2404d443b")
 	)
 	(segment
-		(start 203.53 65.23)
+		(start 212.54 65.23)
+		(end 203.53 65.23)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "/25")
+		(uuid "29f9bc9f-be2d-484c-8fdb-e7d17397bff2")
+	)
+	(segment
+		(start 215.2 67.89)
 		(end 212.54 65.23)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "/25")
-		(uuid "19409144-0a34-4f0c-b722-106910473f7b")
-	)
-	(segment
-		(start 212.54 65.23)
-		(end 215.2 67.89)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/25")
-		(uuid "c6050da6-d8bb-4455-87d4-15268ed3fb07")
-	)
-	(segment
-		(start 215.2 67.89)
-		(end 213.74 66.43)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/25")
-		(uuid "e44d1487-2ae0-483e-85c2-57dd8b071ed6")
+		(uuid "ace75840-6968-4117-b597-a64eaaa8a005")
 	)
 	(segment
 		(start 203.51 73.04)
@@ -6238,14 +6230,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "/28")
 		(uuid "216cacc1-06eb-4b4a-914e-2b919edf446a")
-	)
-	(via
-		(at 206.48 79.12)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "/28")
-		(uuid "21d73842-e8bd-4a97-b65c-f15dd6ba00f4")
 	)
 	(via
 		(at 215.12 76.39)
